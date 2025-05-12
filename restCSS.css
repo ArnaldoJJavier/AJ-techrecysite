@@ -1,0 +1,64 @@
+.header:hover {
+    padding: 0 80px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.nav {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 80px;
+    list-style-type: none;
+  
+  }
+
+.nav li a {
+    text-decoration:dotted;
+    color: white;
+    font-size: 1.4rem;
+    font-weight: 600 ;
+}
+
+.TOPbgimg {
+  background-position: 55%;
+  background-size: 60%;
+  background-image: url("storgHW.jpg");
+  min-height: 100%;
+  font-family: sans-serif;
+  color:white; 
+}
+
+.TOPbgimg3 {
+  background-position: 55%;
+  background-size: 60%;
+  background-image: url("whatdoTOP.jpg");
+  
+  font-family: sans-serif;
+  color:white;
+}
+
+.TOPbgimgb {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 22px;
+    color:white;
+}
+
+.TOPbgimgc {
+  background-position: 55%;
+  background-size: 60%;
+  background-image: url("homepg.jpg");
+  min-height: 100%;
+  font-family: sans-serif;
+  color:white; 
+}
+
